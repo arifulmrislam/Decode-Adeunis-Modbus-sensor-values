@@ -1,9 +1,9 @@
 # Decode-Adeunis-Modbus-sensor-values
-Here, We are sending adeunis modbus sensor values to ChirpStack NS and using JS code for decode the encryption values. 
+## Here, We are sending adeunis modbus sensor values to ChirpStack NS and using JS code for decode the encryption values. 
 
 <img src= "MODBUS-capteurs-transmetteurs-iot-lora-sigfox-device-sensors-solution-adeunis-lpwan.webp" width=400>
 
-HIGHLIGHTS
+# HIGHLIGHTS
 
 RS485/RS232 compatible
 
@@ -21,7 +21,7 @@ Compatible with KARE services
 
 Available in LoRaWAN US902-928 and AS 923 versions
 
-For information, https://www.adeunis.com/en/produit/modbus-interface-for-modbus-slaves/
+For more information, [Adeunis](https://www.adeunis.com/en/produit/modbus-interface-for-modbus-slaves/)
 
 🚩 Connect with me on social
 - LinkedIn: https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/
