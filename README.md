@@ -1,5 +1,5 @@
 # Decode-Adeunis-Modbus-sensor-values
-## Here, We are sending adeunis modbus sensor values to ChirpStack NS and using JS code for decode the encryption values. 
+ Here, We are sending adeunis modbus sensor values to ChirpStack NS and using JS code for decode the encryption values. 
 
 <img src= "MODBUS-capteurs-transmetteurs-iot-lora-sigfox-device-sensors-solution-adeunis-lpwan.webp" width=400>
 
