@@ -5,21 +5,21 @@
 
 # HIGHLIGHTS
 
-RS485/RS232 compatible
+- RS485/RS232 compatible
 
-Supervision of up to 20 slaves
+- Supervision of up to 20 slaves
 
-Several periodic frames with different frequencies
+- Several periodic frames with different frequencies
 
-Indicator lights for installation assistance
+- Indicator lights for installation assistance
 
-Control and supply of power to the sensor
+- Control and supply of power to the sensor
 
-Local and remote configuration
+- Local and remote configuration
 
-Compatible with KARE services
+- Compatible with KARE services
 
-Available in LoRaWAN US902-928 and AS 923 versions
+- Available in LoRaWAN US902-928 and AS 923 versions
 
 For more information, [Adeunis](https://www.adeunis.com/en/produit/modbus-interface-for-modbus-slaves/)
 
