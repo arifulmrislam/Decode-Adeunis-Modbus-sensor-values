@@ -25,7 +25,7 @@ For more information, [Adeunis](https://www.adeunis.com/en/produit/modbus-interf
 
 ## DRAGINO RS485-LN RS485  MODBUS TO LORAWAN CONVERTER EU868
 
-<img src= "dragino-rs485-ln-rs485.jpeg" width=400>
+<img src= "dragino-rs485-ln-rs485.jpg" width=400>
 
 - The Dragino RS485-LN is a RS485 to LoRaWAN Converter. It converts the RS485 devices into LoRaWAN wireless network which simplify the IoT installation and reduce the installation/maintaining cost.
 
