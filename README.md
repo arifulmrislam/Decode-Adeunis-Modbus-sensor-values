@@ -53,7 +53,7 @@ For more information, [Adeunis](https://www.adeunis.com/en/produit/modbus-interf
 - LoRaWAN US902-928 / AS 923 et Sigfox RC4 versions
 - Compatible with KARE+ services
 
-For more information, `[Adeunis]`(https://www.adeunis.com/en/produit/pulse-impulse-interface/)
+For more information, [Adeunis](https://www.adeunis.com/en/produit/pulse-impulse-interface/)
 
 🚩 `Connect with me on social`
 - `LinkedIn:` [LinkedIn](https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/)
