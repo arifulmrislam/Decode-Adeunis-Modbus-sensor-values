@@ -35,7 +35,25 @@ For more information, [Adeunis](https://www.adeunis.com/en/produit/modbus-interf
 
 <img src= "Adeunis Pulse impulse interface.webp" width=400>
 
+## `HIGHLIGHTS`
 
+- Up to 2 connectable meters
+- Detection of tampers and leaks
+- Meter flow rate monitoring
+- Local and remote configurable of the IoT sensor
+- Data logging for optimal autonomy
+- Redundancy for better service continuity
+- Timestamp (LoRaWAN®)
+- Network test at startup (LoRaWAN®)
+- IP68
+- This IoT sensor is available:
+- in ATEX version
+- in 6-wire version
+- with binder connector (ATEX version)
+- LoRaWAN US902-928 / AS 923 et Sigfox RC4 versions
+- Compatible with KARE+ services
+
+For more information, [Adeunis](https://www.adeunis.com/en/produit/pulse-impulse-interface/)
 
 🚩 Connect with me on social
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/)
